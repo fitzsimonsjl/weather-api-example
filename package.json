@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "webpack": "^4.43.0",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "name": "weather-api-example",
+  "version": "1.0.0",
+  "description": "small weather api app",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fitzsimonsjl/weather-api-example.git"
+  },
+  "author": "Jack Luke Fitzsimons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fitzsimonsjl/weather-api-example/issues"
+  },
+  "homepage": "https://github.com/fitzsimonsjl/weather-api-example#readme"
+}
